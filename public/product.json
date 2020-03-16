@@ -1,0 +1,100 @@
+[
+    {
+        "brand":"Fasttrack",
+        "product":"watch",
+        "Quantity":0,
+        "price":0,
+        "MRP":3500,
+        "Image":"",
+        "Offer":50
+
+    },
+    {
+        "brand":"vaseline",
+        "product":"vaseline",
+        "Quantity":0,
+        "price":0,
+        "MRP":100,
+        "Image":"",
+        "Offer":10
+    },
+    {
+        "brand":"Nokia",
+        "product":"Nokia7.26",
+        "Quantity":0,
+        "price":8000,
+        "MRP":9000,
+        "Image":"",
+        "Offer":500
+    },
+    {
+        "brand":"MRF",
+        "product":"BAT",
+        "Quantity":0,
+        "price":0,
+        "MRP":800,
+        "Image":"",
+        "Offer":30
+
+    },
+    {
+        "brand":"milton",
+        "product":"Copper water bottle",
+        "Quantity":0,
+        "price":400,
+        "MRP":500,
+        "Image":"",
+        "Offer":100
+
+       
+    },
+    {
+        "brand":"Wildcraft",
+        "product":"bag",
+        "Quantity":0,
+        "price":1600,
+        "MRP":1700,
+        "Image":"",
+        "Offer":150
+    },
+    {
+        "brand":"Puma",
+        "product":"Shoes",
+        "Quantity":0,
+        "price":1800,
+        "MRP":2000,
+        "Image":"",
+        "Offer":200
+
+    },
+    {
+        "brand":"Nike",
+        "product":"T-Shirt",
+        "Quantity":0,
+        "price":700,
+        "MRP":800,
+        "Image":"",
+        "Offer":50
+
+    },
+    {
+        "brand":"Wildstone",
+        "product":"perfume",
+        "Quantity":0,
+        "price":450,
+        "MRP":500,
+        "Image":"",
+        "Offer":50
+
+    },
+    {
+        "brand":"Annapurna",
+        "product":"wheat",
+        "Quantity":0,
+        "price":150,
+        "MRP":200,
+        "Image":"",
+        "Offer":20
+
+    }
+]
