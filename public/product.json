@@ -1,100 +1,110 @@
 [
     {
-        "brand":"Fasttrack",
-        "product":"watch",
-        "Quantity":0,
-        "price":0,
-        "MRP":3500,
-        "Image":"",
-        "Offer":50
+        "brand":"Reynolds",
+        "product":"Reynolds blue ballpen",
+        "quantity":0,      
+        "mRP":50,
+        "total":0,
+        "image":"/images/pen.jpg",
+        "offer":10,
+        "price":45
 
     },
     {
-        "brand":"vaseline",
-        "product":"vaseline",
-        "Quantity":0,
-        "price":0,
-        "MRP":100,
-        "Image":"",
-        "Offer":10
+        "brand":"Vaseline",
+        "product":"Vaseline body lotion",
+        "quantity":0,      
+        "mRP":100,
+        "total":0,
+        "image":"/images/vaseline.jpg",
+        "offer":10,
+        "price":90
     },
     {
         "brand":"Nokia",
-        "product":"Nokia7.26",
-        "Quantity":0,
-        "price":8000,
-        "MRP":9000,
-        "Image":"",
-        "Offer":500
+        "product":"Nokia7.26 smart phone dual sim",
+        "quantity":0,      
+      "mRP":9000,
+        "total":0,
+        "image":"/images/nokia.jpg",
+        "offer":50,
+        "price":4500
     },
     {
         "brand":"MRF",
-        "product":"BAT",
-        "Quantity":0,
-        "price":0,
-        "MRP":800,
-        "Image":"",
-        "Offer":30
+        "product":"MRF tyres,run for life",
+        "quantity":0,   
+        "mRP":800,
+        "total":0,
+        "image":"/images/MRF.jpg",
+        "offer":30,
+        "price":560
 
     },
     {
-        "brand":"milton",
-        "product":"Copper water bottle",
-        "Quantity":0,
-        "price":400,
-        "MRP":500,
-        "Image":"",
-        "Offer":100
+        "brand":"Milton",
+        "product":"Copper water bottle pure",
+        "quantity":0,       
+        "mRP":500,
+        "total":0,
+        "image":"/images/copper.jpg",
+        "offer":10,
+        "price":450
 
        
     },
     {
         "brand":"Wildcraft",
-        "product":"bag",
-        "Quantity":0,
-        "price":1600,
-        "MRP":1700,
-        "Image":"",
-        "Offer":150
+        "product":"Wildcraft Travel Bag",
+        "quantity":0,      
+        "mRP":1700,
+        "total":0,
+        "image":"/images/bag.jpg",
+        "offer":15,
+        "price":1595
     },
     {
-        "brand":"Puma",
-        "product":"Shoes",
-        "Quantity":0,
-        "price":1800,
-        "MRP":2000,
-        "Image":"",
-        "Offer":200
+        "brand":"Vega",
+        "product":"Vega Safety helmet",
+        "quantity":0,       
+        "mRP":2000,
+        "total":0,
+        "image":"images/helmet.jpg",
+        "offer":20,
+        "price":1800
 
     },
     {
-        "brand":"Nike",
-        "product":"T-Shirt",
-        "Quantity":0,
-        "price":700,
-        "MRP":800,
-        "Image":"",
-        "Offer":50
+        "brand":"Sony",
+        "product":"Sony Bluetooth headset",
+        "quantity":0,      
+        "mRP":800,
+        "total":0,
+        "image":"images/headset.jpg",
+        "offer":50,
+        "price":400
 
     },
     {
-        "brand":"Wildstone",
-        "product":"perfume",
-        "Quantity":0,
-        "price":450,
-        "MRP":500,
-        "Image":"",
-        "Offer":50
+        "brand":"Secret",
+        "product":"Secret motivation book",
+        "quantity":0,      
+        "mRP":500,
+        "total":0,
+        "image":"images/book.jpg",
+        "offer":50,
+        "price":250
 
     },
     {
-        "brand":"Annapurna",
-        "product":"wheat",
-        "Quantity":0,
-        "price":150,
-        "MRP":200,
-        "Image":"",
-        "Offer":20
+        "brand":"Lenovo",
+        "product":"Lenovo laptop",
+        "quantity":0,
+        "mRP":20000,
+        "total":0,
+        "image":"/images/laptop.jpg",
+        "offer":20,
+        "price":16000
 
     }
 ]
